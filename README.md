@@ -24,7 +24,7 @@
 
 
 
-## الروبوتات التي يمكنك نشرها <a href="https://github.com/Udydjuhxjfsk/CheemsBot-MD4"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=CheemsBot&message=Bot&color=black"></a> <a href="https://github.com/Udydjuhxjfsk/CheemsBot-MD4"><img title="CheemsBot" src="https://img.shields.io/static/v1?label=CheemsBot&message=Bot&color=black"></a>
+## البوتات التي يمكنك تنصيبها <a href="https://github.com/Udydjuhxjfsk/CheemsBot-MD4"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=CheemsBot&message=Bot&color=black"></a> <a href="https://github.com/Udydjuhxjfsk/CheemsBot-MD4"><img title="CheemsBot" src="https://img.shields.io/static/v1?label=CheemsBot&message=Bot&color=black"></a>
 
 <h3 align="left">تواصل معي:</h3>
 <p align="left">
