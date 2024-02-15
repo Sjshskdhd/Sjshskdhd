@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1><b><code>اهلا بك في بروفايلي</code></b></h1>
-مرحبا انا المطور المصري الجزار المصري❤️
+مرحبا انا المطور الجزار المصري❤️
  
  <br>
 <img src="https://i.imgur.com/O1zIgca.png" height="150">
